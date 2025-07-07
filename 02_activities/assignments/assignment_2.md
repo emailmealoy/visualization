@@ -13,6 +13,7 @@
       ```
       Your answer...
       Good visualization
+
       https://public.tableau.com/app/profile/mateusz.karmalski/viz/CountrieswiththeMostHolidaysin2024makeovermonday/Dashboard12
       
       This dashboard effectively communicates a simple yet meaningful dataset: the number of public holidays in each country in 2024. It excels in visual clarity, usability, and design principles, making it a strong example of a good data visualization.
@@ -27,6 +28,7 @@
 
 
       Bad visualization
+      
       https://public.tableau.com/app/profile/vizgrowth/viz/Formula12024LapTimesBeeswarm/Beeswarm
       
       This beeswarm chart aims to show lap time distributions across different Formula 1 drivers during the 2024 season. While it is visually striking, it ultimately fails to effectively communicate the underlying data. The chart displays a mass of dots without clear numerical guidance, making it difficult to interpret or extract actionable insights.
