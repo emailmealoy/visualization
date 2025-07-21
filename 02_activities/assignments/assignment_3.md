@@ -8,22 +8,56 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
-    > Who is your intended audience? 
+    1. Python
+        - Visual studio
+        - Google
+        - ChatGPT
+        - Friends help with some coding understanding
+    2. Google Sheets
+    > Who is your intended audience?
+    Analysts and Economists who work in food chain suppy and people who deal with trade.
     
     > What information or message are you trying to convey with your visualization? 
-    
+    1. Show the trend for three years combined.
+    2. Which meat is consumed more and which month.
+    3. How the data fluctuates based on the month.
+
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+    1. Ensure charts are easy to read and interpret by adding labels and legends.
+    2. Used colorblid friendly pallets.
+    3. Compared three year data to show a combined spread of the data across months.
+    4. Managed to get a tool tip friendly data for the google sheets.
+
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+    1. Tried to explain each secion with comments for the python version. 
+    2. For the Google Sheets version, combined all the years together and created a separate sheet for the chart.
+
     > How did you ensure that your data visualization is accessible?  
-    
+    1. Used colorblid friendly pallets.
+    2. Cleaned animal group names.
+    3. Ordered the month in correct order.
+    4. Used tight layout controls for better display across all platforms.
+    5. Rotated x-axis lables for better readability.
+
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+    1. Retail traders
+    2. Livestock farmers and producers
+    3. Slaughter houses and meat processing industries
+
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+    1. For the python assignment, since there were a lot of categories, the data was streamlined with the subtotals of the categories.
+    2. Showed the data monthwise with three year combined data.
+    3. Excluded year-to-date totals.
+    4. Excluded plant totals as they were not relevant to animal volumes.
+
     > What ‘underwater labour’ contributed to your final data visualization product?
+    1. Tried my best to do the data cleaning on python to get used to how it is done. However, I had to take a lot of help from friends and online sources. It took 30mins to do the chart on google sheets, but took more than a week to do the clean-up in coding.
+    2. Reshaped the data to have consistency with the phyton and google sheet charts.
+    3. Checked validation with small samples to ensure the coding was correct.
+    4. Tried out different chart types before finalizing the stacked bar graph.
+    5. Learnt a lot of new coding like transpose, concat, and manymore which I will have to practice more to get a true understanding.
+
+
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
